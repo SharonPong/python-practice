@@ -16,6 +16,9 @@ print(test_by_sharon)
     -> git commit -m "project init" 提交更新版本
     -> git push 將本地更新的branch堆送到遠端主機
 3 目前還推不上去，需要配置秘鑰
+4.add commit 取消 
+5.sourcetree
+
 """
 
 
